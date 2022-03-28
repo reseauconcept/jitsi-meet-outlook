@@ -3,7 +3,7 @@
   <Profiles />
   <Settings>
     <Setting Name="Domain" Type="System.String" Scope="User">
-      <Value Profile="(Default)">meet.jit.si</Value>
+      <Value Profile="(Default)">visio.reseau-concept.net</Value>
     </Setting>
     <Setting Name="requireDisplayName" Type="System.Boolean" Scope="User">
       <Value Profile="(Default)">False</Value>
@@ -21,10 +21,10 @@
       <Value Profile="(Default)" />
     </Setting>
     <Setting Name="language" Type="System.String" Scope="User">
-      <Value Profile="(Default)">en</Value>
+      <Value Profile="(Default)">fr</Value>
     </Setting>
     <Setting Name="randomRoomIdGeneratorMode" Type="System.String" Scope="User">
-      <Value Profile="(Default)">phrase</Value>
+      <Value Profile="(Default)">string</Value>
     </Setting>
   </Settings>
 </SettingsFile>
